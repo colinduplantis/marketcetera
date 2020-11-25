@@ -355,7 +355,7 @@
       <dependency>
         <groupId>com.github.jnr</groupId>
         <artifactId>jnr-process</artifactId>
-        <version>0.2</version>
+        <version>0.4.0</version>
       </dependency>
       <dependency>
         <groupId>com.sun.mail</groupId>
