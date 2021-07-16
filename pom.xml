@@ -432,7 +432,7 @@
       <dependency>
         <groupId>org.quickfixj</groupId>
         <artifactId>quickfixj-all</artifactId>
-        <version>2.2.0-bd</version>
+        <version>2.3.0</version>
       </dependency>
       <!-- Compile: CXF -->
       <dependency>
