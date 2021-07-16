@@ -38,7 +38,7 @@
     <mvn.springdatajpa.version>2.5.2</mvn.springdatajpa.version>
     <mvn.eclipse.version>3.8.2</mvn.eclipse.version>
     <mvn.hibernate.version>5.4.24.Final</mvn.hibernate.version>
-    <mvn.hazelcast.version>3.8.1</mvn.hazelcast.version>
+    <mvn.hazelcast.version>4.2.1</mvn.hazelcast.version>
     <mvn.slf4j.version>1.7.31</mvn.slf4j.version>
     <mvn.log4j.version>2.14.1</mvn.log4j.version> <!-- upgrading to 2.14.0 causes a strange error in SessionManagerTest -->
     <mvn.activemq.version>5.9.0</mvn.activemq.version> <!-- upgrading triggers changes to ActiveMQ ObjectName packages -->
