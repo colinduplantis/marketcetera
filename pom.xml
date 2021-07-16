@@ -37,7 +37,7 @@
     <mvn.log4j.version>2.14.1</mvn.log4j.version>
     <mvn.test.options>-Xmx2048m -Xms128m</mvn.test.options>
     <maven.build.timestamp.format>yyyy-MM-dd HH:mm:ss.SSS Z</maven.build.timestamp.format>
-    <vaadin.version>7.7.13</vaadin.version>
+    <vaadin.version>8.13.2</vaadin.version>
     <vaadin.theme>mytheme</vaadin.theme>
     <gwt.version>2.9.0</gwt.version>
     <gwt.plugin.version>2.9.0</gwt.plugin.version>
