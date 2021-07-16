@@ -405,7 +405,7 @@
       <dependency>
         <groupId>com.vaadin</groupId>
         <artifactId>vaadin-spring-boot-starter</artifactId>
-        <version>1.2.0</version>
+        <version>20.0.4</version>
         <exclusions>
           <exclusion>
             <groupId>org.springframework.boot</groupId>
